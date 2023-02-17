@@ -1,9 +1,9 @@
 import { BrouserRouter, Routes, Route} from "react-router-dom";
 
 import Home from "./components/pages/Home";
-import Home from "./components/pages/UserBlog";
-import Home from "./components/pages/Users";
-import Home from "./components/pages/UserPostForm";
+import UserBlog from "./components/pages/UserBlog";
+import Users from "./components/pages/Users";
+import UserPostForm from "./components/pages/UserPostForm";
 
 import "./styles/normalize.css";
 import "./styles/fontwesome.min.css";
