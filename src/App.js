@@ -4,7 +4,7 @@ import Home from ".components/pages/Home.jsx";
 import Home from ".components/pages/UserBlog.jsx";
 import Home from ".components/pages/Users.jsx";
 
-import ".styles/normalize.css";
+import "./styles/normalize.css";
 import "./styles/fontwesome.min.css";
 import "./styles/main.css";
 
