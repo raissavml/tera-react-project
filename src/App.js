@@ -1,8 +1,8 @@
 import { BrouserRouter, Routes, Route} from "react-router-dom";
 
-import Home from ".components/pages/Home";
-import Home from ".components/pages/UserBlog";
-import Home from ".components/pages/Users";
+import Home from ".components/pages/Home.jsx";
+import Home from ".components/pages/UserBlog.jsx";
+import Home from ".components/pages/Users.jsx";
 
 import ".styles/normalize.css";
 import "./styles/fontwesome.min.css";
