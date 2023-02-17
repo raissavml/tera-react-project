@@ -6,7 +6,7 @@ import Users from "./components/pages/Users";
 import UserPostForm from "./components/pages/UserPostForm";
 
 import "./styles/normalize.css";
-import "./styles/fontwesome.min.css";
+import "./styles/fontawesome.min.css";
 import "./styles/main.css";
 
 function App() {
